@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://www.yotube.com">
-    <img src"https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather" />
+    <img src="https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather" />
   </a>
 </p>
 
