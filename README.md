@@ -1,8 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Vidun-Sasmika 👋
+
+**`Digital Craftsman (Devoloper/Robtics Enthusiast)`**
+
+<p align="left">
+  <a href="#">
+    <img src"https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather" />
+  </a>
+</p>
 
 <!--
-**Vidun-Sasmika/Vidun-Sasmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
