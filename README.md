@@ -3,9 +3,12 @@
 **`Digital Craftsman (Devoloper/Robtics Enthusiast)`**
 
 <p align="left">
-  <a href="https://www.yotube.com">
+  <a href="#">
     <img src="https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather" />
   </a>
+   <a href="#">
+    <img src="  https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star" />
+   </a>
 </p>
 
 <!--
