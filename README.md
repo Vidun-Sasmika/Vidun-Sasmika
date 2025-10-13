@@ -2,15 +2,6 @@
 
 **`Digital Craftsman (Developer / Robotics Enthusiast)`**
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/Activity-red.svg?logo=activity&logoSource=feather" alt="Activity" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=stars">
-    <img src="https://custom-icon-badges.demolab.com/badge/Stars-yellow.svg?logo=star" alt="Stars" />
-  </a>
-</p>
-
 ---
 
 ## 🧩 Languages
