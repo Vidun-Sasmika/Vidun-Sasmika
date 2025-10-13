@@ -1,47 +1,86 @@
-# Hi there! I'm Vidun-Sasmika 👋
+# 👋 Hi there! I'm **Vidun Sasmika**
 
-**`Digital Craftsman (Devoloper/Robtics Enthusiast)`**
+**`Digital Craftsman (Developer / Robotics Enthusiast)`**
 
 <p align="left">
-  <a href="#">
-    <img src="https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather" />
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/Activity-red.svg?logo=activity&logoSource=feather" alt="Activity" />
   </a>
-   <a href="#">
-    <img src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star" />
-   </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=stars">
+    <img src="https://custom-icon-badges.demolab.com/badge/Stars-yellow.svg?logo=star" alt="Stars" />
+  </a>
 </p>
-<hr/><br/>
 
-## <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/382d834b-94b2-4098-bc57-a736862d9187" /> Languages and Tools
+---
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="XAMPP" width="30px" style="padding-right:10px;" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HeidiSQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" />
-<img align="left" alt="NetBeans" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img class="github-dark" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" width="30px" style="padding-right:10px;" alt="GitHub logo" />
+## 🧩 Languages
 
-<br/><br/><br/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" style="padding:8px;" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" style="padding:8px;" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" style="padding:8px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="padding:8px;" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" style="padding:8px;" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" style="padding:8px;" alt="C++" />
+</p>
 
-## <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/de0abd0b-c3a0-49d7-bdc3-14e6dd0dc61b" />Stats
+---
+
+## 🛠️ Tools & Frameworks
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" style="padding:8px;" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="padding:8px;" alt="VS Code" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40px" style="padding:8px;" alt="NetBeans" />
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40px" style="padding:8px;" alt="XAMPP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" style="padding:8px;" alt="MySQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="40px" style="padding:8px;" alt="HeidiSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="padding:8px;" alt="GitHub" />
+  <img src="https://github.com/user-attachments/assets/89033c70-f639-4297-8357-183870ad4b00" width="40px" style="padding:8px;" alt="AWS" />
+</p>
+
+---
+
+## ⚙️ Hardware & 3D Design
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" style="padding:8px;" alt="Arduino" />
+  <img src="https://github.com/user-attachments/assets/38a0ee59-230f-44a8-94dd-7efc61057507" width="40px" style="padding:8px;" alt="Blender (3D Design)" />
+</p>
+
+---
+
+## 🏆 Event Certifications
+<p align="left">
+  <a href="YOUR_CERT_LINK_1" target="_blank">
+    <img width="100" alt="AWS_Cert_of_Attendace_Innovate-2025" src="https://github.com/user-attachments/assets/7c3c5323-666d-498b-baec-03b3cbdda3c0" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 ![Vidun-Sasmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidun-Sasmika&show_icons=true&theme=dark)
 
-<!--
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask Me About
+- Web development (HTML, CSS, JS, PHP)
+
+- Arduino projects
+- Databases (MySQL, HeidiSQL)
+
+### 🌱 Currently Exploring
+> Advanced Robotics with Arduino
+> Java-based backend development
+> UI/UX improvements for web apps
+> 3D constrain designing
+
+### ⚡ Fun Fact
+> I believe robots can be artists too 🤖🎨
+
+---
+
+<p align="center">
+  <i>“Code. Create. Automate. Repeat.”</i>
+</p>
