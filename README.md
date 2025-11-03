@@ -45,7 +45,7 @@
 
 ## 🏆 Event Certifications
 <p align="left">
-  <a href="YOUR_CERT_LINK_1" target="_blank">
+  <a href="https://github.com/user-attachments/assets/7c3c5323-666d-498b-baec-03b3cbdda3c0" target="_blank">
     <img width="100" alt="AWS_Cert_of_Attendace_Innovate-2025" src="https://github.com/user-attachments/assets/7c3c5323-666d-498b-baec-03b3cbdda3c0" />
   </a>
 </p>
