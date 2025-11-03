@@ -1,6 +1,8 @@
 # 👋 Hi there! I'm **Vidun Sasmika**
 
 **`Digital Craftsman (Developer / Robotics Enthusiast)`**
+<br/><br/>
+![Profile views](https://komarev.com/ghpvc/?username=Vidun-Sasmika&color=blue)
 
 ---
 
